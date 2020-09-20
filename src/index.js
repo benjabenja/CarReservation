@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import MainForm from './components/MainForm'
-import {MainFnc} from './components/MainFnc'
+import SignUp from './components/SignUp'
 
-ReactDOM.render(<MainFnc/>, document.getElementById('root'));
+ReactDOM.render(<SignUp/>, document.getElementById('root'));
